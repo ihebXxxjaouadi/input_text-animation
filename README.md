@@ -1,7 +1,7 @@
 # input_text-animation
 
 ### before animation  
-<imd src="images/input-before_animation.PNG" width="600">
+<imd src="images/input-before_animation.PNG" width="600px">
   
   
 ### start animation  
