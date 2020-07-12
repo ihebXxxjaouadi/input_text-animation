@@ -1,0 +1,45 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container {
+  width: 270px;
+  height: 30px;
+  position: relative;
+}
+
+ #input_text {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  background: none;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid blue;
+
+}
+
+#input_line {
+  position: absolute;
+  bottom: -2px;
+  left: 0px;
+  height: 100%;
+  width: 0%;
+  background: none;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid deeppink;
+  transition: 0.5s linear;
+}
