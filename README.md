@@ -1,8 +1,8 @@
 # input_text-animation
 
-if you want to take look the 'input animation' how is work, you can visit my codepen account.
-so click the icon  >>>   <a href='https://codepen.io/ihebxxxjaouadi/pen/OJNBQpO'><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
- <<<  
+<h2>if you want to take look the 'input animation' how is work, you can visit my codepen account.
+so click the icon 👉<a href='https://codepen.io/ihebxxxjaouadi/pen/OJNBQpO'><img height="22" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
+👈</h2>
 
 ### Before animation  
 <img src="images/input-before_animation.PNG" width="800">
